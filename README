@@ -1,0 +1,2 @@
+NodeJS process manager. Allows for searching processes, listing by user etc.
+Also allows you to kill processes using their PID.
